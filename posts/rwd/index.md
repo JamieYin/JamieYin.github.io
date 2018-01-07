@@ -1,13 +1,13 @@
 ---
 layout: archive
-title:  "RWD"
+title:  "Web学习笔记"
 date:   2018-01-01 22:07:50 +0800
 modified:
-excerpt:"web笔记"
+excerpt:" "
 tags: []
 image: 
   feature: books.jpg
-  teaser:
+  teaser: books.jpg
 ---
 
 在此展示我所触及的笔记
