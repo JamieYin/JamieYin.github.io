@@ -10,9 +10,6 @@ image:
   teaser: books.jpg
 ---
 
-在此展示我所触及的笔记
-
-
 <div class="tiles">
 {% for post in site.categories.rwd %}
   {% include post-grid.html %}
